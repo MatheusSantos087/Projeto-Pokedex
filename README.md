@@ -11,7 +11,7 @@
   <p align="center">
     Listagem pokémon 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explorar a documentação »</strong></a>
+    <a href="https://github.com/MatheusSantos087/Projeto-Pokedex"><strong>Explorar a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">Ver Demonstração</a>
